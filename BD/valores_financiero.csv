@@ -4,7 +4,7 @@ WO,C,BR,WO_BR,Capex,WO,116281926,11.63
 WO,C,BR,WO_BR,Capex,Perforacion_productores,0,0
 WO,C,BR,WO_BR,Capex,Perforacion_Inyectores,0,0
 WO,C,BR,WO_BR,Capex,Facilidades,17699532,1.77
-WO,C,BR,WO_BR,Capex,VPN_Portafolio,63,63
+WO,C,BR,WO_BR,Capex,VPN_Portafolio,63,62.8
 WO,C,BR,WO_BR,Opex,Opex_Total,11284636,11
 WO,C,BR,WO_BR,Opex,Oil,22852,0
 WO,C,BR,WO_BR,Opex,Fluido,7044637,0.7
@@ -17,7 +17,7 @@ Perf,C,BR,Perforacion_BR,Capex,WO,0,0
 Perf,C,BR,Perforacion_BR,Capex,Perforacion_productores,82366339,8.24
 Perf,C,BR,Perforacion_BR,Capex,Perforacion_Inyectores,29288319,2.93
 Perf,C,BR,Perforacion_BR,Capex,Facilidades,12433613,1.24
-Perf,C,BR,Perforacion_BR,Capex,VPN_Portafolio,35,35
+Perf,C,BR,Perforacion_BR,Capex,VPN_Portafolio,35,34.8
 Perf,C,BR,Perforacion_BR,Opex,Opex_Total,90891535,91
 Perf,C,BR,Perforacion_BR,Opex,Oil,36214,0
 Perf,C,BR,Perforacion_BR,Opex,Fluido,12277837,1.23
@@ -30,7 +30,7 @@ WO,C,AR,WO_AR,Capex,WO,81595556,8.16
 WO,C,AR,WO_AR,Capex,Perforacion_productores,0,0
 WO,C,AR,WO_AR,Capex,Perforacion_Inyectores,0,0
 WO,C,AR,WO_AR,Capex,Facilidades,13180440,1.32
-WO,C,AR,WO_AR,Capex,VPN_Portafolio,77,77
+WO,C,AR,WO_AR,Capex,VPN_Portafolio,77,77.1
 WO,C,AR,WO_AR,Opex,Opex_Total,6506705,7
 WO,C,AR,WO_AR,Opex,Oil,17848,0
 WO,C,AR,WO_AR,Opex,Fluido,3468367,0.35
@@ -43,7 +43,7 @@ Perf,C,AR,Perforacion_AR,Capex,WO,0,0
 Perf,C,AR,Perforacion_AR,Capex,Perforacion_productores,245812044,24.58
 Perf,C,AR,Perforacion_AR,Capex,Perforacion_Inyectores,108952546,10.9
 Perf,C,AR,Perforacion_AR,Capex,Facilidades,15665249,1.57
-Perf,C,AR,Perforacion_AR,Capex,VPN_Portafolio,-6,-6
+Perf,C,AR,Perforacion_AR,Capex,VPN_Portafolio,-6,-5.8
 Perf,C,AR,Perforacion_AR,Opex,Opex_Total,175833674,176
 Perf,C,AR,Perforacion_AR,Opex,Oil,16061,0
 Perf,C,AR,Perforacion_AR,Opex,Fluido,1045140,0.1
@@ -56,7 +56,7 @@ CEOR,C,BR,CEOR,Capex,WO,201471760,20.15
 CEOR,C,BR,CEOR,Capex,Perforacion_productores,0,0
 CEOR,C,BR,CEOR,Capex,Perforacion_Inyectores,47456310,4.75
 CEOR,C,BR,CEOR,Capex,Facilidades,67481802,6.75
-CEOR,C,BR,CEOR,Capex,VPN_Portafolio,204,204
+CEOR,C,BR,CEOR,Capex,VPN_Portafolio,204,203.9
 CEOR,C,BR,CEOR,Opex,Opex_Total,485956496,486
 CEOR,C,BR,CEOR,Opex,Oil,2370776,0.24
 CEOR,C,BR,CEOR,Opex,Fluido,23642211,2.36
@@ -69,7 +69,7 @@ I,AYB,BR,E1,Capex,WO,0,0
 I,AYB,BR,E1,Capex,Perforacion_productores,121514567,12.15
 I,AYB,BR,E1,Capex,Perforacion_Inyectores,101613154,10.16
 I,AYB,BR,E1,Capex,Facilidades,131356711,13.14
-I,AYB,BR,E1,Capex,VPN_Portafolio,179,179
+I,AYB,BR,E1,Capex,VPN_Portafolio,179,164.2
 I,AYB,BR,E1,Opex,Opex_Total,729212872,729
 I,AYB,BR,E1,Opex,Oil,632951,0.06
 I,AYB,BR,E1,Opex,Fluido,101471360,10.15
@@ -82,7 +82,7 @@ II,AYB,BR,E2,Capex,WO,0,0
 II,AYB,BR,E2,Capex,Perforacion_productores,204725629,20.47
 II,AYB,BR,E2,Capex,Perforacion_Inyectores,175868921,17.59
 II,AYB,BR,E2,Capex,Facilidades,14504235,1.45
-II,AYB,BR,E2,Capex,VPN_Portafolio,-17,-17
+II,AYB,BR,E2,Capex,VPN_Portafolio,-17,-16.7
 II,AYB,BR,E2,Opex,Opex_Total,624160275,624
 II,AYB,BR,E2,Opex,Oil,268917,0.03
 II,AYB,BR,E2,Opex,Fluido,48527051,4.85
@@ -95,7 +95,7 @@ III,AYB,BR,E3,Capex,WO,0,0
 III,AYB,BR,E3,Capex,Perforacion_productores,653801203,65.38
 III,AYB,BR,E3,Capex,Perforacion_Inyectores,471589254,47.16
 III,AYB,BR,E3,Capex,Facilidades,36262702,3.63
-III,AYB,BR,E3,Capex,VPN_Portafolio,-84,-84
+III,AYB,BR,E3,Capex,VPN_Portafolio,-84,-83.8
 III,AYB,BR,E3,Opex,Opex_Total,1513793229,1514
 III,AYB,BR,E3,Opex,Oil,657549,0.07
 III,AYB,BR,E3,Opex,Fluido,93265886,9.33
