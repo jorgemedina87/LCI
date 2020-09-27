@@ -125,11 +125,11 @@ I,AYB,BR,E1,n_pozo,#_pozo,138,138
 II,AYB,BR,E2,n_pozo,#_pozo,289,289
 III,AYB,BR,E3,n_pozo,#_pozo,859,859
 IV,AYB,BR,E4,n_pozo,#_pozo,562,562
-WO,C,BR,WO_BR,Vol,Vol,5.1,5.1
-Perf,C,BR,Perforacion_BR,Vol,Vol,4.5,4.5
-WO,C,AR,WO_AR,Vol,Vol,6.6,6.6
-Perf,C,AR,Perforacion_AR,Vol,Vol,9.5,9.5
-CEOR,C,BR,CEOR,Vol,Vol,38.7,38.7
+WO,C,BR,WO_BR,Vol,Vol,5.1,5.08
+Perf,C,BR,Perforacion_BR,Vol,Vol,4.5,4.46
+WO,C,AR,WO_AR,Vol,Vol,6.6,6.59
+Perf,C,AR,Perforacion_AR,Vol,Vol,9.5,9.49
+CEOR,C,BR,CEOR,Vol,Vol,38.7,38.69
 I,AYB,BR,E1,Vol,Vol,29.9,29.9
 II,AYB,BR,E2,Vol,Vol,10.7,10.7
 III,AYB,BR,E3,Vol,Vol,27.6,27.6
